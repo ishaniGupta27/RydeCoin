@@ -12,6 +12,9 @@ This will be a permissioned system in which there will be two authenticated peer
 We also want to look into a unique blockchain model and incorporate some permission based elements like a virtual structure on the network (ex: Chord, etc.) to investigate how the placement of nodes and their reachability affects the over-all performance of our system in terms of commit latency and throughput. Since this is a permissioned system, we can enforce a structure over the network such that each miner node holds a "Finger table" which dictates which neighbor nodes to broadcast to. This data dissemination protocol optimizes blockchain network performance and scalability by splitting workload across all nodes.
 
 ### How to use bash scripts
+
+npm install 
+
 __start.sh__ spins up 5 nodes on ports 3001, 3002, 3003, 3004, and 3005
 
 __stop.sh__ kills those 5 nodes
