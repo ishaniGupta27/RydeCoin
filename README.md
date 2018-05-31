@@ -1,7 +1,7 @@
 # RydeCoin
 Novel application of blockchain built on top of naivecoin
 
-###Introduction
+### Introduction
 UCSB has a bustling ride-sharing community and students car-pool extensively every week. The commu-
 nity exists as a Facebook group without any moderation. This leads to a lot of confusion as people posting
 their vacancies have to constantly update their posts and make sure prospective car-poolers see the latest
